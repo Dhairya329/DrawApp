@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="app_name">Sketch</string>
+
+    // Button descriptions on main activity
+    <string name="save_button_desc">Save drawing</string>
+    <string name="gallery_button_desc">Open gallery</string>
+    <string name="color_button_desc">Choose color</string>
+    <string name="brush_button_desc">Select brush</string>
+    <string name="undo_button_desc">Undo last action</string>
+
+    // Color button descriptions on main activity
+    <string name="red_color_desc">Red color</string>
+    <string name="green_color_desc">Green color</string>
+    <string name="blue_color_desc">Blue color</string>
+    <string name="purple_color_desc">Purple color</string>
+    <string name="orange_color_desc">Orange color</string>
+
+    <string name="image_view_desc">Selected</string>
+
+</resources>
+
+
+
+
+
+
