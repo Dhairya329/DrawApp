@@ -16,8 +16,8 @@ Sketch is an Android drawing app that lets users import images from the gallery,
 ## 🛠️ Tech Stack
 
 * Kotlin
-* Android SDK
-* XML UI
+* XML
+* Android Studio
 
 ---
 
